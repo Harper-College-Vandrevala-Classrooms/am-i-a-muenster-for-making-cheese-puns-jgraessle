@@ -1,0 +1,4 @@
+Number of pasteurized milk cheeses: 800
+Number of raw milk cheeses: 115
+Animal with greatest number of cheeses: Cow
+Number of cheeses that are both organic and have over 41% moisture: 53
